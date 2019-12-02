@@ -1,0 +1,11 @@
+POST http://localhost:7071/api/Start
+Content-Type: "application/json"
+
+{
+    "roomId": "41/5023",
+    "event": "Enter"
+}
+
+### Request 2
+
+POST http://localhost:7071/api/Start
